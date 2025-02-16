@@ -1,6 +1,0 @@
-[submodule "lib/LoPyTUI"]
-	path = lib/LoPyTUI
-	url = https://github.com/reyeees/LoPyTUI
-[submodule "lib/machanto"]
-	path = lib/machanto
-	url = https://github.com/reyeees/machanto
